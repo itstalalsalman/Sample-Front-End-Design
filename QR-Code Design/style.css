@@ -1,0 +1,45 @@
+body{
+    background-color: hsl(220, 15%, 55%);
+}
+
+#container
+{
+    background: white;
+    width: 250px;
+    height: 360px;
+    border-radius: 20px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.pic
+{
+    margin: 0 auto;
+    height: 220px;
+    width: 220px;
+    display: block;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+
+.ch
+{
+    margin: 0 auto;
+    width: 220px;
+}
+
+.heading
+{
+    font-size: medium;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.te
+{
+    font-family: 'Inter', sans-serif;
+    margin: 0 auto;
+    font-size: 13px;
+    text-align: center;
+}
